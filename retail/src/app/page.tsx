@@ -98,7 +98,7 @@ export default function Home() {
       {/* Hero Section */}
       <div className="container mx-auto px-4 py-24 flex flex-col items-center justify-center text-center gap-8 relative">
         <h1 className="text-4xl md:text-6xl font-bold">
-          Welcome to Bank of Anthos
+          Welcome to Moniechoke Banking
         </h1>
         <p className="text-xl text-white/80 max-w-2xl">
           Experience modern banking with enterprise-grade security and reliability
@@ -164,7 +164,7 @@ export default function Home() {
       <footer className="container mx-auto px-4 py-8 mt-16 border-t border-white/20">
         <div className="flex justify-between items-center flex-wrap gap-4">
           <p className="text-sm text-white/70">
-            © 2024 Bank of Anthos. All rights reserved.
+            © 2024 Moniechoke. All rights reserved.
           </p>
           <div className="flex gap-4">
             <a href="#" className="text-sm text-white/70 hover:text-white transition-colors">
