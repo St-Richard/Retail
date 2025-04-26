@@ -104,7 +104,7 @@ export default function Home() {
           Experience modern banking with enterprise-grade security and reliability
         </p>
         <Link 
-          href="http://34.120.13.195"
+          href="http://34.9.39.47"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block"
