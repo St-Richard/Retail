@@ -164,7 +164,7 @@ export default function Home() {
       <footer className="container mx-auto px-4 py-8 mt-16 border-t border-white/20">
         <div className="flex justify-between items-center flex-wrap gap-4">
           <p className="text-sm text-white/70">
-            © 2024 Moniechoke. All rights reserved.
+            © 2025 Moniechoke. All rights reserved.
           </p>
           <div className="flex gap-4">
             <a href="#" className="text-sm text-white/70 hover:text-white transition-colors">
