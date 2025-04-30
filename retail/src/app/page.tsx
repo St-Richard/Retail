@@ -240,7 +240,7 @@ export default function Home() {
       
 
       {/* Hero Section */}
-      <div className="container mx-auto px-6 py-24 md:py-32 max-w-7xl">
+      <div className="container mx-auto px-6 py-24 md:py-32 max-w-7xl mt-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <motion.div 
             initial={{ opacity: 0, x: -50 }}
@@ -376,10 +376,10 @@ export default function Home() {
       </motion.div>
 
       {/* Footer */}
-      <footer className="container mx-auto px-6 py-12 mt-24 border-t border-gray-200 max-w-7xl">
-        <div className="flex justify-between items-center flex-wrap gap-6">
-          <p className="text-gray-600 text-lg">
-            © 2024 Moniechoke. All rights reserved.
+      <footer className="container mx-auto px-4 py-8 mt-16 border-t border-white/20">
+        <div className="flex justify-between items-center flex-wrap gap-4">
+          <p className="text-sm text-white/70">
+            © 2025 Moniechoke. All rights reserved.
           </p>
           <div className="flex gap-8">
             <a href="#" className="text-gray-600 hover:text-[#002d6e] transition-colors text-lg">
